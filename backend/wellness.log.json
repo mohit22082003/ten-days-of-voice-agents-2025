@@ -1,0 +1,20 @@
+[
+    {
+        "timestamp": "2025-11-24T12:24:52.140236",
+        "mood": "low",
+        "energy": "drained",
+        "objectives": [
+            "listen to music"
+        ],
+        "summary": "Today, you're feeling low with drained energy, and your goal is to listen to music. Focus on gentle, comforting music and allow yourself to rest."
+    },
+    {
+        "timestamp": "2025-11-24T12:26:40.745281",
+        "mood": "low",
+        "energy": "very low",
+        "objectives": [
+            "listen to music"
+        ],
+        "summary": "To help with low mood and energy, the user aims to listen to music, starting with selecting a favorite song or short playlist."
+    }
+]
